@@ -1,6 +1,8 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">navigation</a>
+    <div> class= "about"> <h1> this is an about page</h1>
+    </div>
     <button
       class="navbar-toggler"
       type="button"

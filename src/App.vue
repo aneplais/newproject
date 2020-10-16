@@ -34,8 +34,7 @@
             data-toggle="dropdown"
             aria-haspopup="true"
             aria-expanded="false"
-          >
-            Dropdown
+                      Dropdown
           </a>
           <div class="dropdown-menu" aria-labelledby="navbarDropdown">
             <a class="dropdown-item" href="#">Action</a>
@@ -43,6 +42,7 @@
             <div class="dropdown-divider"></div>
             <a class="dropdown-item" href="#">Something else here</a>
           </div>
+          <div>
         </li>
         <li class="nav-item">
           <a
@@ -55,21 +55,22 @@
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
-        <input
+        <input>
           class="form-control mr-sm-2"
           type="search"
           placeholder="Search"
           aria-label="Search"
-        />
+        </input>
         <button class="btn btn-outline-success my-2 my-sm-0" type="submit">
           Search
         </button>
       </form>
     </div>
   </nav>
+  <div>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <img alt="vue logo" src="https://news.artnet.com/app/news-upload/2020/05/05282020_Artnet_ArtAngle_Podcast_IGFeed_1-copy-2-1024x1024.png"
-    <HelloWorld msg="Hello Vue 3.0 + Vite" />
+      <Hello firstname= "Anne" lastname="Fleur" from="Paris 
+</div>
 </template>
 
 <script>

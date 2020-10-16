@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">navigation</a>
-    <div> class= "about"> <h1> this is an about page</h1>
+    <div> class="about"> <h1> this is an about page</h1>
     </div>
     <button
       class="navbar-toggler"
@@ -68,7 +68,8 @@
     </div>
   </nav>
   <img alt="Vue logo" src="./assets/logo.png" />
-  <HelloWorld msg="Hello Vue 3.0 + Vite" />
+  <img alt="vue logo" src="https://news.artnet.com/app/news-upload/2020/05/05282020_Artnet_ArtAngle_Podcast_IGFeed_1-copy-2-1024x1024.png"
+    <HelloWorld msg="Hello Vue 3.0 + Vite" />
 </template>
 
 <script>

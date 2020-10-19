@@ -1,7 +1,7 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">navigation</a>
-    <div> class="about"> <h1> this is an about page</h1>
+    <div> class="about"> <h1> HELLO ANNE</h1>
     </div>
     <button
       class="navbar-toggler"
@@ -69,6 +69,7 @@
   </nav>
   <div>
   <img alt="Vue logo" src="./assets/logo.png" />
+  img="/src./assets/logo.png"/>
       <Hello firstname= "Anne" lastname="Fleur" from="Paris 
 </div>
 </template>

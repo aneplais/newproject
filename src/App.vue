@@ -11,7 +11,7 @@
       aria-controls="navbarSupportedContent"
       aria-expanded="false"
       aria-label="Toggle navigation"
-    >
+    
       <span class="navbar-toggler-icon"></span>
     </button>
 
@@ -19,14 +19,13 @@
       <ul class="navbar-nav mr-auto">
         <li class="nav-item active">
           <a class="nav-link" href="#"
-            >Home <span class="sr-only">(current)</span></a
-          >
+            >Home <span class="sr-only">(current)</span></a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="#">Link</a>
         </li>
         <li class="nav-item dropdown">
-          <a
+          <a>
             class="nav-link dropdown-toggle"
             href="#"
             id="navbarDropdown"
@@ -45,13 +44,12 @@
           <div>
         </li>
         <li class="nav-item">
-          <a
+          <a>
             class="nav-link disabled"
             href="#"
             tabindex="-1"
             aria-disabled="true"
-            >Disabled</a
-          >
+            >Disabled</a>
         </li>
       </ul>
       <form class="form-inline my-2 my-lg-0">
@@ -67,7 +65,7 @@
       </form>
     </div>
   </nav>
-  <div>
+  <div id="app">
   <img alt="Vue logo" src="./assets/logo.png" />
   img="/src./assets/logo.png"/>
       <Hello firstname= "Anne" lastname="Fleur" from="Paris 

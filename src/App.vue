@@ -68,7 +68,7 @@
   <div id="app">
   <img alt="Vue logo" src="./assets/logo.png" />
   img="/src./assets/logo.png"/>
-      <Hello firstname= "Anne" lastname="Fleur" from="Paris 
+      
 </div>
 </template>
 

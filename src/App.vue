@@ -1,9 +1,6 @@
 <template>
-<template>
   <helloworld/>
-</template>
-<template>
-    <p>{{ greeting }} World!</p>
+   <p>{{ greeting }} World!</p>
 </template>
 <script>
   module.exports = {

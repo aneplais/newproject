@@ -65,6 +65,7 @@
       </form>
     </div>
   </nav>
+  
   <div id="app">
   <img alt="Vue logo" src="./assets/logo.png" />
   img="/src./assets/logo.png"/>

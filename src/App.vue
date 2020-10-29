@@ -1,4 +1,10 @@
 <template>
+<template>
+  <helloworld/>
+</template>
+...
+<div class="contianer"> 
+  <!--titre + description -->
   <nav class="navbar navbar-expand-lg navbar-light bg-light">
     <a class="navbar-brand" href="#">navigation</a>
     <div> class="about"> <h1> HELLO ANNE</h1>
@@ -65,7 +71,7 @@
       </form>
     </div>
   </nav>
-  
+
   <div id="app">
   <img alt="Vue logo" src="./assets/logo.png" />
   img="/src./assets/logo.png"/>

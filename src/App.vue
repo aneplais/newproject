@@ -1,7 +1,29 @@
 <template>
+<div id="editor">
+  <textarea :value="input" @input="update"></textarea>
+  <div v-html="compiledMarkdown"></div>
+</div>
   <helloworld/>
    <p>{{ greeting }} World!</p>
 </template>
+<template>
+    <p>{{ greeting }} World!</p>
+</template>
+<script>
+  module.exports = {
+    data() : {
+      return {
+        greeting: 'Hello'
+      }
+    }
+  }
+</script>
+<style scoped>
+p {
+  front-size: 2em;
+  text-align: center;
+}
+</style>
 <script>
   module.exports = {
     data() : {

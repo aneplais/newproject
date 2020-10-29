@@ -2,6 +2,24 @@
 <template>
   <helloworld/>
 </template>
+<template>
+    <p>{{ greeting }} World!</p>
+</template>
+<script>
+  module.exports = {
+    data() : {
+      return {
+        greeting: 'Hello'
+      }
+    }
+  }
+</script>
+<style scoped>
+p {
+  front-size: 2em;
+  text-align: center;
+}
+</style>
 ...
 <div class="contianer"> 
   <!--titre + description -->
